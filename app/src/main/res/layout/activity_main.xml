@@ -38,9 +38,9 @@
         android:id="@+id/image_eightBall"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        app:srcCompat="@drawable/ball1"
+        android:layout_centerHorizontal="true"
         android:layout_marginTop="150sp"
-        android:contentDescription="@string/desc"
-        android:layout_centerHorizontal="true"/>
+        app:srcCompat="@drawable/ball1"
+        />
 
 </RelativeLayout>
